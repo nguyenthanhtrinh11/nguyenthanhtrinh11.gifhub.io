@@ -2,7 +2,7 @@
 <head>
 <title>nguyenthanhtrinh11</title>
 </head>
-<body style="background-color:#000000;">
+<body>
 <h1 style="background-color:#FFFFFF;">Gioi Thieu Ban Than</h1>
 <p style="background-color:#FFFFFF;">Xin chao toi ten la Nguyen Thanh Trinh</p>
   <p style="background-color:#FFFFFF;">Hien nay toi dang hoc tai truong Cao Dang Ky Thuat Cong Nghe Nha Trang</p>
