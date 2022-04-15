@@ -8,7 +8,7 @@
   <p style="background-color:#FFFFFF;">Hien nay toi dang hoc tai truong Cao Dang Ky Thuat Cong Nghe Nha Trang</p>
   <h1 style="background-color:#FFFFFF;">Va day la toi</h1>
   <img src="tt.jpg" alt="toi" width="460" height="640">
- <table>
+ <table border=1>
   <tr>
     <th>THOIGIAN</th>
     <th>THU2</th>
